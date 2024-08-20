@@ -1,0 +1,4 @@
+| Filename                     | Format   |   Width |   Height |
+|------------------------------|----------|---------|----------|
+| o3754119.jpg                 | JPEG     |    1920 |     1080 |
+| zoom-background-nuclear.webp | WEBP     |    1920 |     1080 |
